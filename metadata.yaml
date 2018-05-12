@@ -1,0 +1,29 @@
+_repo: Kuppari-Maija_16374
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Meriläinen, Heikki
+    alias: Merilainen, Heikki
+    birthdate: 1847
+    deathdate: 1939
+    gutenberg_agent_id: '6659'
+    url: http://www.gutenberg.org/2009/agents/6659
+    wikipedia: http://fi.wikipedia.org/wiki/Heikki_Meril%C3%A4inen
+description: ''
+gutenberg_issued: '2005-07-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16374'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories'
+- !lcc 'PH'
+- !lcsh 'Fiction'
+title: Kuppari-Maija
+url: http://www.gutenberg.org/ebooks/16374
